@@ -1,5 +1,5 @@
 # Alternative primers for the ARTIC Network's nCov2019 multiplex PCR
-## (Latest primer version: N6)
+## (Latest primer version: [N6](https://github.com/nasasaki/Alt_nCov2019_primers/tree/master/Primers/ver_N6) (July 13 2022))
 
 
 Here we provide some resources regarding the alternative primer sets for the [ARTIC Network's multiplex PCR for SARS-CoV-2 genome sequencing](https://github.com/artic-network/artic-ncov2019). Those primer sets are results of iterative modification from the [ARTIC Network V1](https://github.com/artic-network/artic-ncov2019).
